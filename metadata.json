@@ -1,0 +1,7 @@
+{
+  "name": "IntelliAttend - Face Recognition Attendance",
+  "description": "A production-ready face recognition attendance system with multi-school support, role-based access, camera capture, manual marking, face registration, training, and reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
